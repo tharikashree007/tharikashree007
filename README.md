@@ -1,131 +1,39 @@
 <div align="center">
 
-# 👋 Hi, I'm **Tharika Shree S**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Tharika%20Shree%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
-### 💻 AI & Data Science Student | Full-Stack Developer | AI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects;Learning+DSA+%26+Java;Exploring+AI+%26+Agentic+AI;Turning+Ideas+into+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Java+%7C+Python+%7C+React;Exploring+Agentic+AI;Building+Real-World+Projects" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-tharikashree007-181717?style=for-the-badge\&logo=github)](https://github.com/tharikashree007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/tharikashree007">
+<img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🌟 About Me
-
-🎓 **B.Tech Artificial Intelligence & Data Science** student at **Sri Eshwar College of Engineering**
-📊 CGPA: **8.63 / 10**
-💡 Interested in **Full-Stack Development, AI/ML, Agentic AI & DSA**
-🚀 Passionate about building practical solutions to real-world problems.
-
----
-
-## ⚡ Tech Stack
-
-### 👩‍💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-
-### 🌐 Full Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
-
-### 🤖 AI / Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-
----
-
-## 🚀 Featured Projects
+##   About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-### 🏢 Smart NGO
-
-A transparent donation management platform connecting **donors, NGOs and administrators**.
-
-**Key Features**
-
-* 🔐 Role-based authentication
-* 📊 Analytics dashboards
-* 💰 Donation & expense tracking
-* ⭐ Impact scoring
-* 🛡️ Fraud detection
-
-**Stack:** React • Node.js • Express • MongoDB
+🎓 **B.Tech AI & Data Science** student
+🏫 **Sri Eshwar College of Engineering**
+📈 **CGPA: 8.63 / 10**
+💻 Passionate about **Full-Stack Development & AI**
+🧠 Currently strengthening **DSA & Java**
+🤖 Exploring **Agentic AI & Data Science**
+🚀 Love turning ideas into practical applications
 
 </td>
 
-<td width="50%">
-
-### 📋 FlowSync
-
-A full-stack **project management system** designed for team collaboration.
-
-**Key Features**
-
-* 🔐 JWT authentication
-* 👥 Role-based access
-* 📌 Project & task management
-* ⏰ Deadline tracking
-* 📈 Progress monitoring
-* 📁 File sharing
-
-**Stack:** React • Node.js • Express • MongoDB
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧠 Brain Tumor Segmentation
-
-A deep learning project using **U-Net** for pixel-wise brain tumor segmentation from MRI images.
-
-**Key Features**
-
-* 🖼️ MRI preprocessing
-* 🧠 U-Net architecture
-* 📊 Model evaluation
-* 🔍 Tumor segmentation visualization
-
-**Stack:** Python • TensorFlow • OpenCV
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI & Full-Stack Projects
-
-Currently exploring:
-
-* 🧠 Agentic AI
-* 🔎 RAG systems
-* 🤖 AI-powered applications
-* 🌐 Full-stack development
-* 📚 Data Structures & Algorithms
+<td width="40%">
 
 </td>
 </tr>
@@ -133,60 +41,216 @@ Currently exploring:
 
 ---
 
-## 💼 Experience
+# 💫 Tech Universe
 
-### MERN Stack Developer Intern
+### 👩‍💻 Languages
 
-**Infoziant | 2025**
+<p>
+<img src="https://skillicons.dev/icons?i=java,python" />
+</p>
 
-Developed full-stack applications using **React.js, Node.js, Express.js and MongoDB Atlas**, implementing JWT authentication, role-based access control and REST APIs.
+### 🌐 Full-Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql" />
+</p>
+
+### 🤖 AI / Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+`Pandas` • `NumPy` • `Matplotlib` • `Data Science` • `Agentic AI`
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
 
 ---
 
-## 🏆 Certifications
+# 🚀 Featured Projects
 
-🏅 **Oracle Java Programming** — Oracle
-🏅 **SQL (Basic)** — HackerRank
-🏅 **Design Thinking – A Primer** — NPTEL, IIT Madras
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏢 Smart NGO
+
+### 💡 Transparent Donation Management Platform
+
+A full-stack platform connecting **donors, NGOs and administrators**.
+
+✨ **Highlights**
+
+* 🔐 Role-based authentication
+* 💰 Donation & expense tracking
+* 📊 Analytics dashboards
+* ⭐ Automated impact scoring
+* 🛡️ Fraud detection
+* 📈 Transparency ratings
+
+**⚡ Stack**
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS` `Recharts`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📋 FlowSync
+
+### 💡 Project Management System
+
+A full-stack platform designed to improve **team collaboration and productivity**.
+
+✨ **Highlights**
+
+* 🔐 JWT authentication
+* 👥 Multi-role access
+* 📌 Project & task management
+* ⏰ Deadline tracking
+* 📈 Progress monitoring
+* 📁 File sharing
+
+**⚡ Stack**
+
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧠 Brain Tumor Segmentation
+
+### 💡 Deep Learning for MRI Analysis
+
+A **U-Net-based deep learning model** for pixel-wise brain tumor segmentation from MRI images.
+
+✨ **Highlights**
+
+* 🖼️ MRI preprocessing
+* 🧠 U-Net architecture
+* 📊 Training & evaluation
+* 🔍 Segmentation visualization
+
+**⚡ Stack**
+
+`Python` `TensorFlow` `OpenCV`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 Current Focus
+
+### 🌱 Learning & Building
+
+🔹 Agentic AI
+🔹 RAG Systems
+🔹 AI-powered Applications
+🔹 Full-Stack Development
+🔹 Data Structures & Algorithms
+🔹 Java Programming
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 💻 Coding Journey
-
-| Platform         | Progress                    |
-| ---------------- | --------------------------- |
-| 🟠 **LeetCode**  | 130+ Problems • Rating 1375 |
-| 🔵 **SkillRack** | 150+ Problems               |
-| 🔴 **CodeChef**  | 1000+ Problems              |
-
----
-
-## 📊 GitHub Stats
+# 💼 Experience
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tharikashree007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+### 🏢 MERN Stack Developer Intern
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree007&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+**Infoziant • 2025**
+
+</div>
+
+Built full-stack applications using **React.js, Node.js, Express.js and MongoDB Atlas**, with JWT authentication, role-based access control and REST APIs.
+
+---
+
+# 🏆 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle-Java%20Programming-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HackerRank-SQL%20Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Design%20Thinking-FF6F00?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🧩 Coding Journey
+
+<div align="center">
+
+|  🟠 Platform  |           📊 Progress           |
+| :-----------: | :-----------------------------: |
+|  **LeetCode** | `130+ Problems` • Rating `1375` |
+| **SkillRack** |         `150+ Problems`         |
+|  **CodeChef** |         `1000+ Problems`        |
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+# 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=tharikashree007&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree007&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=tharikashree007&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
 ---
 
+# 🐍 Contribution Journey
+
 <div align="center">
 
-### 💜 *"Building. Learning. Improving. Every day."*
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
-⭐ **Thanks for visiting my profile!**
+</div>
+
+---
+
+# 🌟 Let's Connect
+
+<div align="center">
+
+<a href="linkedin.com/in/tharika-shree-77729b329/">
+<img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tharikashree007">
+<img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💜 *Build • Learn • Create • Improve*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" width="100%"/>
 
 </div>
