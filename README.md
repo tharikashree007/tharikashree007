@@ -1,183 +1,430 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharika%20Shree%20S&fontSize=46&fontColor=fff&animation=twinkling&desc=Full-Stack%20MERN%20Developer%20%7C%20AI%20%26%20Data%20Science%20Undergrad&descAlignY=64&descSize=16" width="100%"/>
+<!-- ===================== HERO ===================== -->
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0f766e&height=230&section=header&text=Tharika%20Shree%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20%26%20Data%20Science%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=17&descColor=cbd5e1" width="100%"/>
+
+<br>
+
 <a href="https://github.com/tharikashree007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Tharika+%F0%9F%91%8B;Full-Stack+MERN+Developer;Deep+Learning+%7C+U-Net+%7C+TensorFlow;Building+Transparent%2C+Scalable+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Tharika+%F0%9F%91%8B;AI+%26+Data+Science+Student+%F0%9F%A4%96;Building+AI-Powered+Applications+%F0%9F%A7%A0;Full-Stack+MERN+Developer+%F0%9F%92%BB;Deep+Learning+%7C+Computer+Vision+%7C+Agentic+AI;Turning+Ideas+Into+Useful+Products+%E2%9C%A8" alt="Typing Animation"/>
 </a>
 
-<br/>
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharika-shree-77729b329/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tharikashree.s2024aids@sece.ac.in)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tharika13/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/thari13)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/tharikashree0071)
-[![SkillRack](https://img.shields.io/badge/SkillRack-2E86DE?style=flat-square&logo=googlescholar&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=514580&key=c71438f3711cf3950d896ca7b68d4f965e76a872)
+<a href="https://github.com/tharikashree007">
+<img src="https://komarev.com/ghpvc/?username=tharikashree007&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=tharikashree007&style=flat-square&color=70A5FD" alt="Profile views"/>
+<br><br>
+
+<a href="https://www.linkedin.com/in/tharika-shree-77729b329/">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+</a>
+&nbsp;
+<a href="mailto:tharikashree.s2024aids@sece.ac.in">
+<img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Tharika13/">
+<img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/thari13">
+<img src="https://img.shields.io/badge/CodeChef-0f172a?style=for-the-badge&logo=codechef&logoColor=F5F5F5"/>
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<br>
 
-## 👩‍💻 About Me
+<!-- ===================== ABOUT ===================== -->
+
+<h2 align="center">⚡ About Me</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👩‍💻 Who Am I?
+
+🎓 **B.Tech AI & Data Science** student
+🏫 Sri Eshwar College of Engineering
+📍 Coimbatore, Tamil Nadu, India
+📅 2024 — 2028
+
+I enjoy building **AI-powered products, full-stack applications, and practical machine-learning systems**.
+
+My focus is on combining **AI + software engineering** to build applications that are useful, transparent, and scalable.
+
+<br>
+
+### 🚀 Current Focus
+
+🤖 Agentic AI
+🧠 Deep Learning
+💻 Full-Stack Development
+🧮 Data Structures & Algorithms
+👁️ Computer Vision
+
+</td>
+
+<td width="45%" valign="top">
 
 ```python
 class TharikaShree:
-    name       = "Tharika Shree S"
-    location   = "Coimbatore, Tamil Nadu, India"
-    degree     = "B.Tech AI & Data Science (2024-2028)"
-    college    = "Sri Eshwar College of Engineering"
-    cgpa       = 8.63  # 4th semester
 
-    stack = ["React.js", "Node.js", "Express.js", "MongoDB Atlas",
-             "Python", "Java", "TensorFlow", "Tailwind CSS"]
+    role = "AI / ML Engineer"
+    
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Agentic AI",
+        "Full-Stack Development"
+    ]
 
-    currently_learning = ["Agentic AI", "Advanced DSA", "Deep Learning"]
+    currently_learning = [
+        "Advanced DSA",
+        "Deep Learning",
+        "Agentic AI"
+    ]
 
-    fun_fact = "1000+ problems solved on SkillRack with 200+ Bronzes"
-
-    def motto(self):
-        return "Build things that are useful, transparent and scalable."
+    motto = """
+    Build things that are useful,
+    transparent and scalable.
+    """
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Cloud & DevOps**
-
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/tharikashree007">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tharikashree007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-</a>
-<a href="https://github.com/tharikashree007">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</a>
-
-<img src="https://streak-stats.demolab.com?user=tharikashree007&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharikashree007&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=tharikashree007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
-## 💼 Experience
-
-<details open>
-<summary><b>MERN Stack Developer Intern</b> · Infoziant · 2025</summary>
 <br>
 
-> `React.js` `Node.js` `Express.js` `MongoDB Atlas` `JWT` `REST APIs` `Bootstrap` `Postman`
+<!-- ===================== TECH STACK ===================== -->
 
-- Built a full-stack **Project Management System** on the MERN stack with MongoDB Atlas.
-- Implemented **JWT-based multi-role authentication** and **role-based access control** with RESTful APIs.
-- Delivered project and task management, **deadline tracking**, task assignment and **file sharing**.
-- Added **real-time progress monitoring** to improve team collaboration and productivity.
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
-## 🚀 Featured Projects
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|:--|:--|:--|
-| [**Smart NGO**](https://smart-ngo-nine.vercel.app/) 🔗<br/>*Transparent Donation Platform · Mar 2026* | React.js, Node.js, Express.js, MongoDB Atlas, JWT, Tailwind CSS, Recharts | Connects donors, NGOs and admins in one place with role-based auth, expense tracking, real-time analytics, automated impact scoring, transparency ratings and fraud detection |
-| [**FlowSync**](https://flowsycn.vercel.app/) 🔗<br/>*Project Management System · Dec 2025* | React.js, Node.js, Express.js, MongoDB Atlas, JWT | Multi-role access for Admins, Managers and Team Members, task assignment, progress tracking, file sharing and real-time project monitoring |
-| [**Brain Tumor Detection**](https://github.com/tharikashree007/brain-tumor) 🔗<br/>*Deep Learning · May 2025* | Python, TensorFlow, OpenCV, U-Net | U-Net segmentation of brain tumors from MRI images with pixel-wise detection, full training and evaluation pipeline, predictions visualized against ground truth |
+### 👨‍💻 Languages
+
+<a href="#"><img src="https://skillicons.dev/icons?i=python,java,js,html,css" /></a>
+
+<br><br>
+
+### ⚛️ Frameworks & Libraries
+
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,tensorflow,opencv" /></a>
+
+<br><br>
+
+### 🗄️ Databases & Tools
+
+<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,jupyter" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<br>
 
-## 🏅 Achievements
+<!-- ===================== ANIMATED SEPARATOR ===================== -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:6366F1,100:14B8A6&height=3" width="90%"/>
+</div>
+
+<br>
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-| | Achievement | Details |
-|:-:|:--|:--|
-| 🧩 | [**LeetCode**](https://leetcode.com/u/Tharika13/) | 130+ problems solved · contest rating **1375** |
-| 🥉 | [**SkillRack**](https://www.skillrack.com/faces/resume.xhtml?id=514580&key=c71438f3711cf3950d896ca7b68d4f965e76a872) | 1000+ problems solved · rank **19390** · **200+ Bronzes** |
-| 👩‍🍳 | [**CodeChef**](https://www.codechef.com/users/thari13) | 150+ problems solved · rank **123799** |
-| 📜 | **Design Thinking: A Primer (Elite)** | NPTEL, IIT Madras · 2026 |
-| ☕ | **Oracle Java Programming** | Oracle · 2025 |
-| 🗄️ | [**SQL (Basic)**](https://www.hackerrank.com/profile/tharikashree0071) | HackerRank · 2025 |
+<a href="https://github.com/tharikashree007">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tharikashree007&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=38BDF8&icon_color=818CF8&text_color=cbd5e1"/>
+</a>
+
+<a href="https://github.com/tharikashree007">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree007&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=38BDF8&text_color=cbd5e1"/>
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=tharikashree007&theme=transparent&hide_border=true&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharikashree007&bg_color=0f172a&color=38BDF8&line=6366F1&point=14B8A6&area=true&hide_border=true" width="95%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<br>
 
-## 🎓 Education
+<!-- ===================== EXPERIENCE ===================== -->
+
+<h2 align="center">💼 Experience</h2>
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:--|:--|:-:|:-:|
-| B.Tech AI & Data Science | Sri Eshwar College of Engineering | 2024-2028 | **8.63** CGPA (4th sem) |
-| HSC | Kids Park Matriculation Higher Secondary School | 2022-2024 | **93.8%** |
-| SSLC | Kids Park Matriculation Higher Secondary School | 2021-2022 | **94.4%** |
+<table>
+<tr>
+<td>
+
+### 🚀 MERN Stack Developer Intern
+
+**Infoziant · 2025**
+
+`React.js` `Node.js` `Express.js` `MongoDB Atlas` `JWT` `REST APIs`
+
+</td>
+</tr>
+</table>
 
 </div>
 
-### 🌱 Currently Learning
+* Built a full-stack **Project Management System** using the MERN stack.
+* Implemented **JWT authentication** and role-based access control.
+* Developed project and task management features.
+* Added deadline tracking, task assignment and file sharing.
+* Implemented real-time progress monitoring for team collaboration.
 
-```text
-🤖 Agentic AI     → LLM agents, tool use, multi-step workflows
-🧠 Deep Learning  → Segmentation, CNN architectures, model evaluation
-⚙️ Full-Stack     → Scalable MERN architecture, advanced auth patterns
-🧮 DSA            → Daily practice on LeetCode, SkillRack and CodeChef
-```
+<br>
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
-*"Build things that are useful, transparent and scalable."* ✨
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🌱 Smart NGO</h3>
+
+<div align="center">
+
+<a href="https://smart-ngo-nine.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<br>
+
+**Transparent Donation Platform**
+
+React • Node • Express • MongoDB • JWT • Tailwind
+
+<br>
+
+🔐 Role-based authentication
+📊 Real-time analytics
+💰 Expense tracking
+⭐ Transparency ratings
+🤖 Automated impact scoring
+🛡️ Fraud detection
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">⚡ FlowSync</h3>
+
+<div align="center">
+
+<a href="https://flowsycn.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+**Project Management System**
+
+React • Node • Express • MongoDB • JWT
+
+<br>
+
+👥 Multi-role access
+📋 Task assignment
+📈 Progress tracking
+📁 File sharing
+⏱️ Deadline management
+📡 Project monitoring
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🧠 Brain Tumor Detection</h3>
+
+<div align="center">
+
+<a href="https://github.com/tharikashree007/brain-tumor">
+<img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+**Deep Learning • Computer Vision**
+
+Python • TensorFlow • OpenCV • U-Net
+
+<br>
+
+🧠 MRI image analysis
+🎯 Pixel-wise segmentation
+📊 Model evaluation
+🖼️ Prediction visualization
+🔬 Ground-truth comparison
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
+
+<h2 align="center">🏆 Coding & Achievements</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 🧩 LeetCode
+
+<img src="https://img.shields.io/badge/130%2B-Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+**Contest Rating: 1375**
+
+</td>
+
+<td align="center">
+
+### 🥉 SkillRack
+
+<img src="https://img.shields.io/badge/1000%2B-Problems-2E86DE?style=for-the-badge"/>
+
+**200+ Bronzes**
+
+</td>
+
+<td align="center">
+
+### 👩‍🍳 CodeChef
+
+<img src="https://img.shields.io/badge/150%2B-Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+**Rank: 123799**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=tharikashree007&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
+
+<br>
+
+<!-- ===================== EDUCATION ===================== -->
+
+<h2 align="center">🎓 Education</h2>
+
+<div align="center">
+
+| 🎓 Degree                    | 🏫 Institution                                  |  📅 Year  |      📈 Score |
+| :--------------------------- | :---------------------------------------------- | :-------: | ------------: |
+| **B.Tech AI & Data Science** | Sri Eshwar College of Engineering               | 2024–2028 | **8.63 CGPA** |
+| **HSC**                      | Kids Park Matriculation Higher Secondary School | 2022–2024 |     **93.8%** |
+| **SSLC**                     | Kids Park Matriculation Higher Secondary School | 2021–2022 |     **94.4%** |
+
+</div>
+
+<br>
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🤖<br><b>Agentic AI</b><br><sub>LLM Agents • Tool Use • Workflows</sub></td>
+<td align="center">🧠<br><b>Deep Learning</b><br><sub>CNN • Segmentation • Evaluation</sub></td>
+<td align="center">⚙️<br><b>Full-Stack</b><br><sub>MERN • APIs • Authentication</sub></td>
+<td align="center">🧮<br><b>DSA</b><br><sub>LeetCode • SkillRack • CodeChef</sub></td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ===================== CONTRIBUTION ANIMATION ===================== -->
+
+<h2 align="center">🐍 Contribution Activity</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+
+</div>
+
+<br>
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tharika-shree-77729b329/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tharikashree.s2024aids@sece.ac.in">
+<img src="https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Tharika13/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+<br><br>
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0f766e&height=150&section=footer&animation=twinkling"/>
+
+### ✨ *“Build things that are useful, transparent and scalable.”*
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Keep+Building+%E2%80%A2+Keep+Learning+%E2%80%A2+Keep+Growing+%F0%9F%9A%80"/>
+
+</div>
