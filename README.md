@@ -1,256 +1,183 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharika%20Shree%20S&fontSize=46&fontColor=fff&animation=twinkling&desc=Full-Stack%20MERN%20Developer%20%7C%20AI%20%26%20Data%20Science%20Undergrad&descAlignY=64&descSize=16" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Tharika%20Shree%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Java+%7C+Python+%7C+React;Exploring+Agentic+AI;Building+Real-World+Projects" />
+<a href="https://github.com/tharikashree007">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Tharika+%F0%9F%91%8B;Full-Stack+MERN+Developer;Deep+Learning+%7C+U-Net+%7C+TensorFlow;Building+Transparent%2C+Scalable+Web+Apps" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/tharikashree007">
-<img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharika-shree-77729b329/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tharikashree.s2024aids@sece.ac.in)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tharika13/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/thari13)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/tharikashree0071)
+[![SkillRack](https://img.shields.io/badge/SkillRack-2E86DE?style=flat-square&logo=googlescholar&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=514580&key=c71438f3711cf3950d896ca7b68d4f965e76a872)
+
+<img src="https://komarev.com/ghpvc/?username=tharikashree007&style=flat-square&color=70A5FD" alt="Profile views"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
-##   About Me
+## 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+```python
+class TharikaShree:
+    name       = "Tharika Shree S"
+    location   = "Coimbatore, Tamil Nadu, India"
+    degree     = "B.Tech AI & Data Science (2024-2028)"
+    college    = "Sri Eshwar College of Engineering"
+    cgpa       = 8.63  # 4th semester
 
-🎓 **B.Tech AI & Data Science** student
-🏫 **Sri Eshwar College of Engineering**
-📈 **CGPA: 8.63 / 10**
-💻 Passionate about **Full-Stack Development & AI**
-🧠 Currently strengthening **DSA & Java**
-🤖 Exploring **Agentic AI & Data Science**
-🚀 Love turning ideas into practical applications
+    stack = ["React.js", "Node.js", "Express.js", "MongoDB Atlas",
+             "Python", "Java", "TensorFlow", "Tailwind CSS"]
 
-</td>
+    currently_learning = ["Agentic AI", "Advanced DSA", "Deep Learning"]
 
-<td width="40%">
+    fun_fact = "1000+ problems solved on SkillRack with 200+ Bronzes"
 
-</td>
-</tr>
-</table>
+    def motto(self):
+        return "Build things that are useful, transparent and scalable."
+```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
-# 💫 Tech Universe
+## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🌐 Full-Stack Development
+**Frameworks & Libraries**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### 🤖 AI / Data Science
+**Cloud & DevOps**
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-`Pandas` • `NumPy` • `Matplotlib` • `Data Science` • `Agentic AI`
+**Databases & Tools**
 
-### 🛠️ Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🏢 Smart NGO
-
-### 💡 Transparent Donation Management Platform
-
-A full-stack platform connecting **donors, NGOs and administrators**.
-
-✨ **Highlights**
-
-* 🔐 Role-based authentication
-* 💰 Donation & expense tracking
-* 📊 Analytics dashboards
-* ⭐ Automated impact scoring
-* 🛡️ Fraud detection
-* 📈 Transparency ratings
-
-**⚡ Stack**
-
-`React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS` `Recharts`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📋 FlowSync
-
-### 💡 Project Management System
-
-A full-stack platform designed to improve **team collaboration and productivity**.
-
-✨ **Highlights**
-
-* 🔐 JWT authentication
-* 👥 Multi-role access
-* 📌 Project & task management
-* ⏰ Deadline tracking
-* 📈 Progress monitoring
-* 📁 File sharing
-
-**⚡ Stack**
-
-`React` `Node.js` `Express` `MongoDB` `JWT`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🧠 Brain Tumor Segmentation
-
-### 💡 Deep Learning for MRI Analysis
-
-A **U-Net-based deep learning model** for pixel-wise brain tumor segmentation from MRI images.
-
-✨ **Highlights**
-
-* 🖼️ MRI preprocessing
-* 🧠 U-Net architecture
-* 📊 Training & evaluation
-* 🔍 Segmentation visualization
-
-**⚡ Stack**
-
-`Python` `TensorFlow` `OpenCV`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🤖 Current Focus
-
-### 🌱 Learning & Building
-
-🔹 Agentic AI
-🔹 RAG Systems
-🔹 AI-powered Applications
-🔹 Full-Stack Development
-🔹 Data Structures & Algorithms
-🔹 Java Programming
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💼 Experience
+## 📊 GitHub Stats
 
 <div align="center">
-
-### 🏢 MERN Stack Developer Intern
-
-**Infoziant • 2025**
-
-</div>
-
-Built full-stack applications using **React.js, Node.js, Express.js and MongoDB Atlas**, with JWT authentication, role-based access control and REST APIs.
-
----
-
-# 🏆 Certifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Oracle-Java%20Programming-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HackerRank-SQL%20Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Design%20Thinking-FF6F00?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🧩 Coding Journey
-
-<div align="center">
-
-|  🟠 Platform  |           📊 Progress           |
-| :-----------: | :-----------------------------: |
-|  **LeetCode** | `130+ Problems` • Rating `1375` |
-| **SkillRack** |         `150+ Problems`         |
-|  **CodeChef** |         `1000+ Problems`        |
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tharikashree007&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree007&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=tharikashree007&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
----
-
-# 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
----
-
-# 🌟 Let's Connect
-
-<div align="center">
-
-<a href="linkedin.com/in/tharika-shree-77729b329/">
-<img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <a href="https://github.com/tharikashree007">
-<img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tharikashree007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+</a>
+<a href="https://github.com/tharikashree007">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
 </a>
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=tharikashree007&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 
-### 💜 *Build • Learn • Create • Improve*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharikashree007&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tharikashree007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+## 💼 Experience
+
+<details open>
+<summary><b>MERN Stack Developer Intern</b> · Infoziant · 2025</summary>
+<br>
+
+> `React.js` `Node.js` `Express.js` `MongoDB Atlas` `JWT` `REST APIs` `Bootstrap` `Postman`
+
+- Built a full-stack **Project Management System** on the MERN stack with MongoDB Atlas.
+- Implemented **JWT-based multi-role authentication** and **role-based access control** with RESTful APIs.
+- Delivered project and task management, **deadline tracking**, task assignment and **file sharing**.
+- Added **real-time progress monitoring** to improve team collaboration and productivity.
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|:--|:--|:--|
+| [**Smart NGO**](https://smart-ngo-nine.vercel.app/) 🔗<br/>*Transparent Donation Platform · Mar 2026* | React.js, Node.js, Express.js, MongoDB Atlas, JWT, Tailwind CSS, Recharts | Connects donors, NGOs and admins in one place with role-based auth, expense tracking, real-time analytics, automated impact scoring, transparency ratings and fraud detection |
+| [**FlowSync**](https://flowsycn.vercel.app/) 🔗<br/>*Project Management System · Dec 2025* | React.js, Node.js, Express.js, MongoDB Atlas, JWT | Multi-role access for Admins, Managers and Team Members, task assignment, progress tracking, file sharing and real-time project monitoring |
+| [**Brain Tumor Detection**](https://github.com/tharikashree007/brain-tumor) 🔗<br/>*Deep Learning · May 2025* | Python, TensorFlow, OpenCV, U-Net | U-Net segmentation of brain tumors from MRI images with pixel-wise detection, full training and evaluation pipeline, predictions visualized against ground truth |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+## 🏅 Achievements
+
+<div align="center">
+
+| | Achievement | Details |
+|:-:|:--|:--|
+| 🧩 | [**LeetCode**](https://leetcode.com/u/Tharika13/) | 130+ problems solved · contest rating **1375** |
+| 🥉 | [**SkillRack**](https://www.skillrack.com/faces/resume.xhtml?id=514580&key=c71438f3711cf3950d896ca7b68d4f965e76a872) | 1000+ problems solved · rank **19390** · **200+ Bronzes** |
+| 👩‍🍳 | [**CodeChef**](https://www.codechef.com/users/thari13) | 150+ problems solved · rank **123799** |
+| 📜 | **Design Thinking: A Primer (Elite)** | NPTEL, IIT Madras · 2026 |
+| ☕ | **Oracle Java Programming** | Oracle · 2025 |
+| 🗄️ | [**SQL (Basic)**](https://www.hackerrank.com/profile/tharikashree0071) | HackerRank · 2025 |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|:--|:--|:-:|:-:|
+| B.Tech AI & Data Science | Sri Eshwar College of Engineering | 2024-2028 | **8.63** CGPA (4th sem) |
+| HSC | Kids Park Matriculation Higher Secondary School | 2022-2024 | **93.8%** |
+| SSLC | Kids Park Matriculation Higher Secondary School | 2021-2022 | **94.4%** |
+
+</div>
+
+### 🌱 Currently Learning
+
+```text
+🤖 Agentic AI     → LLM agents, tool use, multi-step workflows
+🧠 Deep Learning  → Segmentation, CNN architectures, model evaluation
+⚙️ Full-Stack     → Scalable MERN architecture, advanced auth patterns
+🧮 DSA            → Daily practice on LeetCode, SkillRack and CodeChef
+```
+
+<div align="center">
+
+*"Build things that are useful, transparent and scalable."* ✨
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
